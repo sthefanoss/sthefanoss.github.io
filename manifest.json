@@ -1,6 +1,6 @@
 {
-    "name": "interactive_fourier_series",
-    "short_name": "interactive_fourier_series",
+    "name": "induction_motor_torque_charts",
+    "short_name": "induction_motor_torque_charts",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
