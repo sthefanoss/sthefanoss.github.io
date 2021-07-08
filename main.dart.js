@@ -58412,13 +58412,13 @@ f=A.a7S(n,n,n,n,n,n,n,new V.d7(C.I,t.gQ),n,n,n,n,n,n,n,n,n,n)
 return T.ac4(H.a([m,l,k,new Z.D4(j,j*0.30901699437492736,n),i,h,g,new T.rp(1,C.jc,new B.BC(new G.Zp(!0,!0,!0,p,q),new V.aV(8,8,8,8),C.p,!1,n,!0,C.lQ,!1,n,7,C.aW,C.z5,n,C.aa,n),n),new T.e1(C.ot,U.aoC(L.dg("Fundo foto criado por evening_tao - br.freepik.com",n,A.m8(n,n,C.nk,n,n,n,n,n,n,n,n,8,n,n,n,n,!0,n,n,n,n,n,n,n),n,n),new V.a2h(),f),n)],o),C.dw,C.e0,C.cL)},
 $S:372}
 V.a2e.prototype={
-$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/ifs"])},
+$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/ifs/#/"])},
 $S:0}
 V.a2f.prototype={
-$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/torque-tri"])},
+$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/torque-tri/#/"])},
 $S:0}
 V.a2g.prototype={
-$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/image-path-finder"])},
+$0:function(){$.ed().eX("open",["https://sthefanoss.github.io/apps/image-path-finder/#/"])},
 $S:0}
 V.a2h.prototype={
 $0:function(){$.ed().eX("open",["https://br.freepik.com/fotos/fundo"])},
