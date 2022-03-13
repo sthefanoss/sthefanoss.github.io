@@ -11,7 +11,7 @@
     Fore more details:
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
-  <base href="/apps/smith">
+  <base href="apps/smith/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -24,10 +24,10 @@
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="apps/smith/image/png" href="favicon.png"/>
 
   <title>smith_chart_match</title>
-  <link rel="manifest" href="manifest.json">
+  <link rel="manifest" href="apps/smith/manifest.json">
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -36,10 +36,10 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=562829946');
+        navigator.serviceWorker.register('apps/smith/flutter_service_worker.js?v=562829946');
       });
     }
   </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+  <script src="apps/smith/main.dart.js" type="application/javascript"></script>
 </body>
 </html>
